@@ -14,12 +14,5 @@ public class App
     		return false;
     }
     
-    public static int sum(int[] val)
-    {
-    	int total=0;
-    	for(int i=0;i<val.length;i++)
-    		total+=val[i];
-    	
-    	return total;
-    }
+    
 }
